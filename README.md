@@ -1,4 +1,4 @@
-# 🇮🇳 COVID-19 India Analysis 📊
+# COVID-19 India Analysis 📊
 
 This project provides a comprehensive analysis of **COVID-19 cases in India** using data-driven methods. It includes state-wise data exploration through **Jupyter Notebook** (using Python and pandas) and insightful **interactive visualizations using Tableau**.
 
